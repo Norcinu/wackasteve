@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="background">#5CB3FF</color>
+	<color name="game_background">#663333</color>
+	<color name="tile">#ffffff</color>
+	<color name="divider">#9999CC</color>
+	<color name="mole_colour">#660000</color>
+	<color name="selcted">#ff0000</color>
+</resources>
